@@ -1,0 +1,53 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Cabin", sans-serif;
+}
+
+.logo {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 37px;
+}
+
+.bg-red {
+  background-color: #dc3545;
+  padding: 7rem;
+}
+
+.bg-ricogrey {
+  background-color: #373a3c;
+}
+
+.text37r {
+  font-size: 37px;
+}
+
+.text30r {
+  font-size: 30px;
+}
+
+.textcabin40 {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.logo30 {
+  font-size: 30px;
+  font-family: "Lobster", sans-serif;
+}
+
+body main section div article div p {
+  margin-bottom: 0rem;
+}
+
+.hcarusel {
+  height: 85%;
+}
+
+.boldcabin {
+  font-weight: 700;
+}
